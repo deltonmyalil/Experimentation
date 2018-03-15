@@ -1,0 +1,3 @@
+Nothing to see here, I try out some stuff to see the behavior of Java.
+Most of the trial and error stuff happen here
+Move along...
